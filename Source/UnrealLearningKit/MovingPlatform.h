@@ -22,18 +22,10 @@ protected:
 public:	
 	// Called every frame
 	virtual void Tick(float DeltaTime) override;
+	UPROPERTY(EditAnywhere)
+	FVector MyVector = FVector(3,2,1);
+	UPROPERTY(EditAnywhere)
+	float MyX = 0;
 
-	UPROPERTY(EditAnywhere)
-	int32 InputA = 0;
-	UPROPERTY(EditAnywhere)
-	int32 InputB = 0;
-	UPROPERTY(EditAnywhere)
-	int32 APlusB = 0;
-	UPROPERTY(EditAnywhere)
-	float InputFloatA = 0.0;
-	UPROPERTY(EditAnyWhere)
-	float InputFloatB = 0.0;
-	UPROPERTY(EditAnyWhere)
-	float FloatAPlusB = 0.0;
 
 };

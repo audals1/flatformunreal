@@ -9,7 +9,7 @@
 				"UnrealLearningKit",
 				"Win64",
 				"Debug",
-				"C:\\Users\\user\\Documents\\Unreal Projects\\UnrealLearningKit\\UnrealLearningKit.uproject",
+				"C:\\Users\\user\\Documents\\Unreal Projects\\UnrealLearningKit\\flatformunreal\\UnrealLearningKit.uproject",
 				"-waitmutex"
 			],
 			"problemMatcher": "$msCompile",
@@ -26,7 +26,7 @@
 				"UnrealLearningKit",
 				"Win64",
 				"Debug",
-				"C:\\Users\\user\\Documents\\Unreal Projects\\UnrealLearningKit\\UnrealLearningKit.uproject",
+				"C:\\Users\\user\\Documents\\Unreal Projects\\UnrealLearningKit\\flatformunreal\\UnrealLearningKit.uproject",
 				"-waitmutex"
 			],
 			"problemMatcher": "$msCompile",
@@ -46,7 +46,7 @@
 				"UnrealLearningKit",
 				"Win64",
 				"Debug",
-				"C:\\Users\\user\\Documents\\Unreal Projects\\UnrealLearningKit\\UnrealLearningKit.uproject",
+				"C:\\Users\\user\\Documents\\Unreal Projects\\UnrealLearningKit\\flatformunreal\\UnrealLearningKit.uproject",
 				"-waitmutex"
 			],
 			"problemMatcher": "$msCompile",
@@ -63,7 +63,7 @@
 				"UnrealLearningKit",
 				"Win64",
 				"DebugGame",
-				"C:\\Users\\user\\Documents\\Unreal Projects\\UnrealLearningKit\\UnrealLearningKit.uproject",
+				"C:\\Users\\user\\Documents\\Unreal Projects\\UnrealLearningKit\\flatformunreal\\UnrealLearningKit.uproject",
 				"-waitmutex"
 			],
 			"problemMatcher": "$msCompile",
@@ -80,7 +80,7 @@
 				"UnrealLearningKit",
 				"Win64",
 				"DebugGame",
-				"C:\\Users\\user\\Documents\\Unreal Projects\\UnrealLearningKit\\UnrealLearningKit.uproject",
+				"C:\\Users\\user\\Documents\\Unreal Projects\\UnrealLearningKit\\flatformunreal\\UnrealLearningKit.uproject",
 				"-waitmutex"
 			],
 			"problemMatcher": "$msCompile",
@@ -100,7 +100,7 @@
 				"UnrealLearningKit",
 				"Win64",
 				"DebugGame",
-				"C:\\Users\\user\\Documents\\Unreal Projects\\UnrealLearningKit\\UnrealLearningKit.uproject",
+				"C:\\Users\\user\\Documents\\Unreal Projects\\UnrealLearningKit\\flatformunreal\\UnrealLearningKit.uproject",
 				"-waitmutex"
 			],
 			"problemMatcher": "$msCompile",
@@ -117,7 +117,7 @@
 				"UnrealLearningKit",
 				"Win64",
 				"Development",
-				"C:\\Users\\user\\Documents\\Unreal Projects\\UnrealLearningKit\\UnrealLearningKit.uproject",
+				"C:\\Users\\user\\Documents\\Unreal Projects\\UnrealLearningKit\\flatformunreal\\UnrealLearningKit.uproject",
 				"-waitmutex"
 			],
 			"problemMatcher": "$msCompile",
@@ -134,7 +134,7 @@
 				"UnrealLearningKit",
 				"Win64",
 				"Development",
-				"C:\\Users\\user\\Documents\\Unreal Projects\\UnrealLearningKit\\UnrealLearningKit.uproject",
+				"C:\\Users\\user\\Documents\\Unreal Projects\\UnrealLearningKit\\flatformunreal\\UnrealLearningKit.uproject",
 				"-waitmutex"
 			],
 			"problemMatcher": "$msCompile",
@@ -154,7 +154,7 @@
 				"UnrealLearningKit",
 				"Win64",
 				"Development",
-				"C:\\Users\\user\\Documents\\Unreal Projects\\UnrealLearningKit\\UnrealLearningKit.uproject",
+				"C:\\Users\\user\\Documents\\Unreal Projects\\UnrealLearningKit\\flatformunreal\\UnrealLearningKit.uproject",
 				"-waitmutex"
 			],
 			"problemMatcher": "$msCompile",
@@ -171,7 +171,7 @@
 				"UnrealLearningKit",
 				"Win64",
 				"Test",
-				"C:\\Users\\user\\Documents\\Unreal Projects\\UnrealLearningKit\\UnrealLearningKit.uproject",
+				"C:\\Users\\user\\Documents\\Unreal Projects\\UnrealLearningKit\\flatformunreal\\UnrealLearningKit.uproject",
 				"-waitmutex"
 			],
 			"problemMatcher": "$msCompile",
@@ -188,7 +188,7 @@
 				"UnrealLearningKit",
 				"Win64",
 				"Test",
-				"C:\\Users\\user\\Documents\\Unreal Projects\\UnrealLearningKit\\UnrealLearningKit.uproject",
+				"C:\\Users\\user\\Documents\\Unreal Projects\\UnrealLearningKit\\flatformunreal\\UnrealLearningKit.uproject",
 				"-waitmutex"
 			],
 			"problemMatcher": "$msCompile",
@@ -208,7 +208,7 @@
 				"UnrealLearningKit",
 				"Win64",
 				"Test",
-				"C:\\Users\\user\\Documents\\Unreal Projects\\UnrealLearningKit\\UnrealLearningKit.uproject",
+				"C:\\Users\\user\\Documents\\Unreal Projects\\UnrealLearningKit\\flatformunreal\\UnrealLearningKit.uproject",
 				"-waitmutex"
 			],
 			"problemMatcher": "$msCompile",
@@ -225,7 +225,7 @@
 				"UnrealLearningKit",
 				"Win64",
 				"Shipping",
-				"C:\\Users\\user\\Documents\\Unreal Projects\\UnrealLearningKit\\UnrealLearningKit.uproject",
+				"C:\\Users\\user\\Documents\\Unreal Projects\\UnrealLearningKit\\flatformunreal\\UnrealLearningKit.uproject",
 				"-waitmutex"
 			],
 			"problemMatcher": "$msCompile",
@@ -242,7 +242,7 @@
 				"UnrealLearningKit",
 				"Win64",
 				"Shipping",
-				"C:\\Users\\user\\Documents\\Unreal Projects\\UnrealLearningKit\\UnrealLearningKit.uproject",
+				"C:\\Users\\user\\Documents\\Unreal Projects\\UnrealLearningKit\\flatformunreal\\UnrealLearningKit.uproject",
 				"-waitmutex"
 			],
 			"problemMatcher": "$msCompile",
@@ -262,7 +262,7 @@
 				"UnrealLearningKit",
 				"Win64",
 				"Shipping",
-				"C:\\Users\\user\\Documents\\Unreal Projects\\UnrealLearningKit\\UnrealLearningKit.uproject",
+				"C:\\Users\\user\\Documents\\Unreal Projects\\UnrealLearningKit\\flatformunreal\\UnrealLearningKit.uproject",
 				"-waitmutex"
 			],
 			"problemMatcher": "$msCompile",
@@ -279,7 +279,7 @@
 				"UnrealLearningKitEditor",
 				"Win64",
 				"Debug",
-				"C:\\Users\\user\\Documents\\Unreal Projects\\UnrealLearningKit\\UnrealLearningKit.uproject",
+				"C:\\Users\\user\\Documents\\Unreal Projects\\UnrealLearningKit\\flatformunreal\\UnrealLearningKit.uproject",
 				"-waitmutex"
 			],
 			"problemMatcher": "$msCompile",
@@ -296,7 +296,7 @@
 				"UnrealLearningKitEditor",
 				"Win64",
 				"Debug",
-				"C:\\Users\\user\\Documents\\Unreal Projects\\UnrealLearningKit\\UnrealLearningKit.uproject",
+				"C:\\Users\\user\\Documents\\Unreal Projects\\UnrealLearningKit\\flatformunreal\\UnrealLearningKit.uproject",
 				"-waitmutex"
 			],
 			"problemMatcher": "$msCompile",
@@ -316,7 +316,7 @@
 				"UnrealLearningKitEditor",
 				"Win64",
 				"Debug",
-				"C:\\Users\\user\\Documents\\Unreal Projects\\UnrealLearningKit\\UnrealLearningKit.uproject",
+				"C:\\Users\\user\\Documents\\Unreal Projects\\UnrealLearningKit\\flatformunreal\\UnrealLearningKit.uproject",
 				"-waitmutex"
 			],
 			"problemMatcher": "$msCompile",
@@ -333,7 +333,7 @@
 				"UnrealLearningKitEditor",
 				"Win64",
 				"DebugGame",
-				"C:\\Users\\user\\Documents\\Unreal Projects\\UnrealLearningKit\\UnrealLearningKit.uproject",
+				"C:\\Users\\user\\Documents\\Unreal Projects\\UnrealLearningKit\\flatformunreal\\UnrealLearningKit.uproject",
 				"-waitmutex"
 			],
 			"problemMatcher": "$msCompile",
@@ -350,7 +350,7 @@
 				"UnrealLearningKitEditor",
 				"Win64",
 				"DebugGame",
-				"C:\\Users\\user\\Documents\\Unreal Projects\\UnrealLearningKit\\UnrealLearningKit.uproject",
+				"C:\\Users\\user\\Documents\\Unreal Projects\\UnrealLearningKit\\flatformunreal\\UnrealLearningKit.uproject",
 				"-waitmutex"
 			],
 			"problemMatcher": "$msCompile",
@@ -370,7 +370,7 @@
 				"UnrealLearningKitEditor",
 				"Win64",
 				"DebugGame",
-				"C:\\Users\\user\\Documents\\Unreal Projects\\UnrealLearningKit\\UnrealLearningKit.uproject",
+				"C:\\Users\\user\\Documents\\Unreal Projects\\UnrealLearningKit\\flatformunreal\\UnrealLearningKit.uproject",
 				"-waitmutex"
 			],
 			"problemMatcher": "$msCompile",
@@ -387,7 +387,7 @@
 				"UnrealLearningKitEditor",
 				"Win64",
 				"Development",
-				"C:\\Users\\user\\Documents\\Unreal Projects\\UnrealLearningKit\\UnrealLearningKit.uproject",
+				"C:\\Users\\user\\Documents\\Unreal Projects\\UnrealLearningKit\\flatformunreal\\UnrealLearningKit.uproject",
 				"-waitmutex"
 			],
 			"problemMatcher": "$msCompile",
@@ -404,7 +404,7 @@
 				"UnrealLearningKitEditor",
 				"Win64",
 				"Development",
-				"C:\\Users\\user\\Documents\\Unreal Projects\\UnrealLearningKit\\UnrealLearningKit.uproject",
+				"C:\\Users\\user\\Documents\\Unreal Projects\\UnrealLearningKit\\flatformunreal\\UnrealLearningKit.uproject",
 				"-waitmutex"
 			],
 			"problemMatcher": "$msCompile",
@@ -424,7 +424,7 @@
 				"UnrealLearningKitEditor",
 				"Win64",
 				"Development",
-				"C:\\Users\\user\\Documents\\Unreal Projects\\UnrealLearningKit\\UnrealLearningKit.uproject",
+				"C:\\Users\\user\\Documents\\Unreal Projects\\UnrealLearningKit\\flatformunreal\\UnrealLearningKit.uproject",
 				"-waitmutex"
 			],
 			"problemMatcher": "$msCompile",

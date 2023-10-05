@@ -15,8 +15,6 @@ AMovingPlatform::AMovingPlatform()
 void AMovingPlatform::BeginPlay()
 {
 	Super::BeginPlay();
-	FloatAPlusB = InputFloatA + InputFloatB;
-	APlusB = InputA + InputB;
 	
 }
 
@@ -24,6 +22,20 @@ void AMovingPlatform::BeginPlay()
 void AMovingPlatform::Tick(float DeltaTime)
 {
 	Super::Tick(DeltaTime);
+
+	FVector LocalVector = MyVector;
+
+	LocalVector.Z = LocalVector.Z + 1000;
+
+	MyVector.Y = MyVector.Y + 1;
+
+	SetActorLocation(LocalVector);
+
+	// Move Platform forward
+		// Get current location
+		// Add vector to that location
+		// Set the location
+	// Send Fla
 
 }
 
